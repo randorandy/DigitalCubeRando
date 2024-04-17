@@ -4,6 +4,10 @@ contact randorandy (ironrusty) with questions
 it will be best to join the ironrusty crew on discord for collaboration:
 https://discord.gg/zDgFTuSSFY
 
+For web roller:
+https://randorandy.github.io/DigitalCubeRando/
+
+For local python 3 generation:
 1.download this repository
 2.place a copy of the Digital Cube rom in the roms folder - it must be named Digital Cube.sfc
 3.run Main.py in console
